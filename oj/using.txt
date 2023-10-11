@@ -1,0 +1,35 @@
+account：
+可能包含与用户账户相关的 Django 应用程序的代码和模板。
+announcement：
+可能包含用于处理系统或用户通告的代码和模板。
+conf：
+可能包含项目的配置文件，例如环境配置、配置文件模板等。
+contest：
+可能包含与竞赛相关的 Django 应用程序的代码和模板。
+data：
+可能用于存储项目中的数据文件、测试数据或其他数据相关的内容。
+deploy：
+可能包含与项目部署相关的文件，例如 Docker 配置、部署脚本等。
+docs：
+可能包含项目文档，如说明书、API 文档等。
+fps：
+目前不清楚这个文件夹的具体用途。
+judge：
+可能包含与评判系统相关的 Django 应用程序的代码和模板。
+oj：
+项目的主要应用程序或模块，可能包含主要的业务逻辑。
+options：
+可能包含项目中的配置选项，例如 Django settings 的自定义配置文件。
+problem：
+可能包含与问题或题目相关的 Django 应用程序的代码和模板。
+submission：
+可能包含与提交相关的 Django 应用程序的代码和模板。
+templates：
+可能包含 Django 项目中的 HTML 模板文件。
+utils：
+可能包含项目中的通用工具函数、库或其他实用工具。
+venv：
+可能是 Python 虚拟环境，用于隔离项目的依赖。
+其他文件：
+包括一些配置文件（如 .coveragerc, .dockerignore, .flake8, .gitignore, .travis.yml）、脚本（如 init_db.sh, run_test.py）、许可证文件（LICENSE）、Dockerfile 等。
+请注意，对于 fps 文件夹，我目前无法明确其用途，可能需要查看文件夹中的内容或者项目的文档来了解其具体功能。
